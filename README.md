@@ -19,6 +19,16 @@ Linkedin: [arran-brown99](www.linkedin.com/in/arran-brown99)
 
 ### 3rd year group project
 
+A Multi-cloud dynamic service, or cloud as a platform, Glaros will migrate itself & payload throughout AWS, Azure and GCP instances, rehosting a web server on the new cloud service provider.
+
+Glaros uses stock market data to decide when to move between cloud services leaving no trace behind after moving.
+
+Software engineering best practices were used to improve our workflow.
+We worked with our client [Leidos](https://www.leidos.com/) to iterate on the design regularly.
+
+
+![Glaros Dashboard](https://i.imgur.com/rZ8xFGH.png)
+
 [Link to repository](https://github.com/arranbrown99/Glaros)
 
 ## This Place looks Familiar
