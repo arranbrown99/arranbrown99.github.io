@@ -4,13 +4,14 @@ Personal website for Arran Brown, to showcase project work.
 
 # Contact Information
 
-Github: https://github.com/arranbrown99
+Github: 
+[arranbrown99](https://github.com/arranbrown99)
 
-Email: arranbrown99@gmail.com 
+Email: [arranbrown99@gmail.com ](arranbrown99@gmail.com )
 
 Mobile: 07541 100371
 
-Linkedin: www.linkedin.com/in/arran-brown99
+Linkedin: [arran-brown99](www.linkedin.com/in/arran-brown99)
 
 # Projects
 
@@ -18,9 +19,7 @@ Linkedin: www.linkedin.com/in/arran-brown99
 
 ### 3rd year group project
 
-
-
-https://github.com/arranbrown99/Glaros
+[Link to repository](https://github.com/arranbrown99/Glaros)
 
 ## This Place looks Familiar
 
@@ -34,9 +33,9 @@ Still in progress.
 
 ## Gradinator
 
-https://github.com/arranbrown99/Gradinator
+[Link to repository](https://github.com/arranbrown99/Gradinator)
 
 ## COVID Simulation
 
-https://github.com/arranbrown99/COVID_simulation
+[Link to repository](https://github.com/arranbrown99/COVID_simulation)
 
