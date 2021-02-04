@@ -54,5 +54,11 @@ Still in progress.
 
 ## COVID Simulation
 
+Using VIRL in order to write a learning agent, an AI which can choose the best actions each week of a COVID-19 simulation.
+
+Various agents were implemented including Q-learning, and Q-learning with a neural network for parameter optimistion as well as policy search.
+
+![noisy](img/noisy.png)
+
 [Link to repository](https://github.com/arranbrown99/COVID_simulation)
 
