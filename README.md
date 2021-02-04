@@ -29,6 +29,13 @@ Using deep learning and neural networks to detect Scottish landmarks from within
 A novel project as there is a focus of detecting these landmarks in panoramas.
 A focus on academic research and the resulting dissertation. 
 
+![Kelpies_mask_RCNN](images/4.kelpies_example.png)
+
+![Edinburgh castle](images/Edinburgh%20castle.jpg)
+
+![stirling castle](images/stirling%20castle.jpg)
+
+
 Still in progress.
 
 ## Gradinator
