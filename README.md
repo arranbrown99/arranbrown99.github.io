@@ -52,7 +52,7 @@ Still in progress.
 
 ### Web app development coursework
 
-A django web app designed as part of a web app development course. Users can add their enrolled courses and their marks for the coursework that they acheived and the web app predicts what result the student would need to get to acheive various grades in that course. AJAX is used to dynamically show the enrolled courses without refreshing the page.
+A django web app designed as part of a web app development course. Users can add their enrolled courses and their marks for the coursework that they achieved and the web app predicts what result the student would need to get to achieve various grades in that course. AJAX is used to dynamically show the enrolled courses without refreshing the page.
 
 [Link to repository](https://github.com/arranbrown99/Gradinator)
 
@@ -62,7 +62,7 @@ A django web app designed as part of a web app development course. Users can add
 
 Using VIRL in order to write a learning agent, an AI which can choose the best actions each week of a COVID-19 simulation.
 
-Various agents were implemented including Q-learning, and Q-learning with a neural network for parameter optimistion as well as policy search.
+Various agents were implemented including Q-learning, and Q-learning with a neural network for parameter optimisation as well as policy search.
 
 ![noisy](images/noisy.png)
 
