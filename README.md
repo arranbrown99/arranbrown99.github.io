@@ -11,7 +11,7 @@ Email: [arranbrown99@gmail.com ](arranbrown99@gmail.com )
 
 Mobile: 07541 100371
 
-Linkedin: [arran-brown99](www.linkedin.com/in/arran-brown99)
+Linkedin: [arran-brown99](https://www.linkedin.com/in/arran-brown99)
 
 # Projects
 
