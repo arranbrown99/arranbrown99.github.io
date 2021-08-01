@@ -39,10 +39,6 @@ Using deep learning and neural networks to detect Scottish landmarks from within
 A novel project as there is a focus of detecting these landmarks in panoramas.
 A focus on academic research and the resulting dissertation. 
 
-Example of Panorama detection to featuring a panorama containing the Falkirk Wheel:
-
-![Comparision_kelpies_panorama](images/comparision_falkirk281.pdf)
-
 ![Kelpies_mask_RCNN](images/4.kelpies_example.png)
 
 ![Edinburgh castle](images/Edinburgh%20castle.jpg)
