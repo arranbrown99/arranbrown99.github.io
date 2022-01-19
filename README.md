@@ -66,3 +66,10 @@ Various agents were implemented including Q-learning, and Q-learning with a neur
 
 [Link to repository](https://github.com/arranbrown99/COVID_simulation)
 
+## Prof Scraper
+
+### Haskell coursework
+
+Using Haskell to implement a web scraper to find all Glasgow University Professors who meet certain condtions, such as all Visiting Professors  
+
+[Link to repository](https://github.com/arranbrown99/prof_scraper)
